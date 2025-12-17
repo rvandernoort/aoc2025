@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aoc2025
+  annotations:
+    github.com/project-slug: aoc2025
+spec:
+  type: other
+  lifecycle: unknown
+  owner: rvandernoort
